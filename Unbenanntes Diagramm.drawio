@@ -1,9 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T19:20:55.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.8" etag="LXRt9vs0uYrVFnSrGnHq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T19:45:04.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="awx7xFeDmJpgnah3Ld0r" version="21.3.8" type="github">
   <diagram name="Seite-1" id="jxkn-ivbrKEnn9NsxWAQ">
-    <mxGraphModel>
+    <mxGraphModel dx="2900" dy="1582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-3" value="Agroforestry" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="-58" width="706" height="461" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-6" value="Phase I: Initial investment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-3">
+          <mxGeometry x="37" y="9" width="639" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-7" value="Laying out a wood strip" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-6">
+          <mxGeometry y="30" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-8" value="Machinery" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-6">
+          <mxGeometry y="60" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-9" value="Hired labour" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-6">
+          <mxGeometry y="90" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-11" value="Phase II: Annual costs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-3">
+          <mxGeometry x="37" y="140" width="639" height="150" as="geometry">
+            <mxRectangle x="37" y="140" width="193" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-12" value="Plant protection, manures and fertilizer" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-11">
+          <mxGeometry y="30" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-13" value="Hired labour" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-11">
+          <mxGeometry y="60" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-14" value="Subsidies" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-11">
+          <mxGeometry y="90" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-23" value="Maintenance cut" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-11">
+          <mxGeometry y="120" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-16" value="Phase III: Profit margin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-3">
+          <mxGeometry x="37" y="300" width="639" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-17" value="Wood yield" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-16">
+          <mxGeometry y="30" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-18" value="Harvest cost" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-16">
+          <mxGeometry y="60" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-19" value="Yield loss" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-16">
+          <mxGeometry y="90" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-39" value="Conventional yield" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-16">
+          <mxGeometry y="120" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-24" value="Agrivoltaics" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="417" width="706" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-25" value="Phase I: Initial investment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-24">
+          <mxGeometry x="37" y="9" width="639" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-26" value="Subsidies" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-25">
+          <mxGeometry y="30" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-27" value="Cost of the panels" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-25">
+          <mxGeometry y="60" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-28" value="Hired labour" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-25">
+          <mxGeometry y="90" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-29" value="Phase II: Annual costs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-24">
+          <mxGeometry x="37" y="140" width="639" height="90" as="geometry">
+            <mxRectangle x="37" y="140" width="193" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-30" value="Insurance" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-29">
+          <mxGeometry y="30" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-31" value="Hired labour" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-29">
+          <mxGeometry y="60" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-34" value="Phase III: Profit margin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-24">
+          <mxGeometry x="37" y="246" width="639" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-35" value="Conventional yield" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-34">
+          <mxGeometry y="30" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-36" value="Profit through energy" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-34">
+          <mxGeometry y="60" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-37" value="Yield loss" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="_5jzaRPltrP_jNyiDjmC-34">
+          <mxGeometry y="90" width="639" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="165" as="sourcePoint" />
+            <mxPoint x="390" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309" y="588" as="sourcePoint" />
+            <mxPoint x="391" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-44" value="Agroforestry NPV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="136" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-45" value="Agrivoltaics NPV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="557" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="555" y="171" width="75" height="423" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jzaRPltrP_jNyiDjmC-49" value="Decision" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="660" y="342.5" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
